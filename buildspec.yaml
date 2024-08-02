@@ -11,8 +11,8 @@ phases:
       # - unzip ./sonar-scanner-cli-4.0.0.1744-linux.zip
       # - chmod +x $PWD/sonar-scanner-4.0.0.1744-linux/bin/sonar-scanner
       # - export PATH=$PATH:$PWD/sonar-scanner-4.0.0.1744-linux/bin/
-      - pip install pytest pytest-cov
-      - pip install coverage
+      # - pip install pytest pytest-cov
+      # - pip install coverage
 
   build:
     commands:
