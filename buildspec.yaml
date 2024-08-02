@@ -48,7 +48,7 @@ reports:
     base-directory: xunit-reports
     file-format: XUNIT
 
-cache:
-  paths:
-    - "node_modules/**/*"
-    - "/root/.cache/pip
+# cache:
+#   paths:
+#     - "node_modules/**/*"
+#     - "/root/.cache/pip
