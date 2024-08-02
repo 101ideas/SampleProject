@@ -6,7 +6,6 @@ from django.shortcuts import render, get_object_or_404, redirect
 # Create your views here.
 from .forms import BlogPostModelForm
 from .models import BlogPost
-
 # CRUD
 
 # GET -> Retrieve / List
